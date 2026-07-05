@@ -1,0 +1,46 @@
+# BarberHQ
+
+> Multi-location chain showroom for FallHub. Sovereign AI-first OS for barbershop chains and adjacent multi-location small businesses (gyms, cafés, nail bars, salons, yoga studios, beauty clinics, small retail). Central kernel with N location sub-configs · shared services + local hours/staff/stock · walk-in queue + appointment book · loyalty punch card · staff shift shuffling · per-location review response. Published by AI-Native Solutions. MIT. ◊·κ=1.
+
+## What it is
+
+BarberHQ is a vertical showroom pointing at:
+- FallHub's barbershop-chain vertical template (also serves the broader multi-location pattern)
+- FallForge's concierge installer
+- The chain module stack (FallAccount, FallCRM Elite, FallReach, FallSecurity, Botler, Cassie Oracle)
+
+Any multi-location small-business owner can deploy FallHub with the BarberHQ configuration and get an AI-first operating system that handles appointment booking, walk-in queue management, shift shuffling, stock ordering, loyalty tracking, and per-location review responses.
+
+## Signature feature: multi-location chain kernel
+
+BarberHQ's kernel has a central `chain` block (shared services, prices, loyalty rules) plus an array of `locations` (each with hours, chairs, staff, walk-in policy, review platform IDs). Global changes propagate; local changes stay local. Adding a location is one JSON block.
+
+## Pattern extends to
+
+- Fitness studios / gyms (classes replace services)
+- Independent cafés (takeout queue)
+- Nail bars / salons (near-identical to barbershop)
+- Yoga / pilates studios (class-based + trial weeks)
+- Beauty clinics (treatments + consult gates)
+- Small retail chains (stock primary · no chair)
+
+## Modules typically installed on BarberHQ instances
+
+- FallAccount — multi-location P&L, tips accounting, VAT per location
+- FallCRM Elite — customer history across all locations, loyalty tracking
+- FallReach — Instagram + TikTok scheduling, cut-of-the-week reels
+- FallSecurity — CCTV DPIA, staff DBS records, GDPR for customer photos
+- Botler — in-browser LLM for on-tablet drafting during peak hours
+- Cassie Oracle — local competitor price watch, foot-traffic patterns
+
+## Live surfaces
+
+- Showroom: https://sjgant80-hub.github.io/barberhq/
+- Concierge install: https://sjgant80-hub.github.io/fallforge/install.html
+- Vertical spec: https://sjgant80-hub.github.io/fallhub/verticals/barbershop.html
+- Modules marketplace: https://sjgant80-hub.github.io/fallhub/modules.html
+- Repo: https://github.com/sjgant80-hub/barberhq
+
+## Publisher
+
+AI-Native Solutions · https://www.ai-nativesolutions.com/ · hello@ai-nativesolutions.com
