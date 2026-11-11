@@ -1,6 +1,6 @@
 # BarberHQ
 
-> Multi-location chain showroom for FallHub. Sovereign AI-first OS for barbershop chains and adjacent multi-location small businesses (gyms, cafés, nail bars, salons, yoga studios, beauty clinics, small retail). Central kernel with N location sub-configs · shared services + local hours/staff/stock · walk-in queue + appointment book · loyalty punch card · staff shift shuffling · per-location review response. Published by AI-Native Solutions. MIT. ◊·κ=1.
+> Multi-location chain showroom for FallHub. Sovereign AI-first OS for barbershop chains and adjacent multi-location small businesses (gyms, cafés, nail bars, salons, yoga studios, beauty clinics, small retail). Central kernel with N location sub-configs · shared services + local hours/staff/stock · walk-in queue + appointment book · loyalty punch card · staff shift shuffling · per-location review response. Published by AI-Native Solutions. MIT. .
 
 ## What it is
 

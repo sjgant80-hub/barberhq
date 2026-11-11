@@ -7,7 +7,7 @@ BarberHQ is the sovereign AI-first operating system for barbershop chains — co
 - **Live:** https://sjgant80-hub.github.io/barberhq/
 - **Publisher:** [AI-Native Solutions](https://www.ai-nativesolutions.com/)
 - **Licence:** MIT
-- **Seal:** `◊·κ=1`
+- **Seal:** ``
 
 ## The showroom leads to
 
